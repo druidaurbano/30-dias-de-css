@@ -9,7 +9,7 @@ Desafio de #30diasDeCSS
 
 ![Gif of #2](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%232.gif)
 
-#3
+#3 Mudança de cor de texto quando entra em outra div
 
 ![Gif of #2](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%233.gif)
 
