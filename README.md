@@ -11,6 +11,9 @@ Desafio de #30diasDeCSS
 
 #3 Mudança de cor de texto quando entra em outra div
 
-![Gif of #2](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%233.gif)
+![Gif of #3](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%233.gif)
 
 #4
+![Gif of #4](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%234.gif)
+
+#5
