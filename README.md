@@ -13,7 +13,8 @@ Desafio de #30diasDeCSS
 
 ![Gif of #3](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%233.gif)
 
-#4
+#4 Botão com efeito
+
 ![Gif of #4](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%234.gif)
 
 #5
