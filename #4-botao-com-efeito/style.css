@@ -1,0 +1,54 @@
+* {
+    margin:0;
+    padding: 0;
+    font-family: "montserrat", sans-serif;
+}
+
+body {
+    background: #353b48;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.botao {
+    width: 200px;
+    height: 60px;
+    background: none;
+    border: 4px solid;
+    color: pink;
+    font-weight: 700;
+    text-transform: uppercase;
+    cursor: pointer;    /*create the hand pointer*/
+    font-size: 16px;
+    position: relative;
+}
+
+.botao::before, .botao::after {
+    content: "";
+    position: absolute;
+    width: 14px;
+    height: 4px;
+    background: #353b48;
+    transform: skewX(50deg);  /*skew an element in the hori\ontal direction with degrees*/
+    transition: .4s linear;
+}
+
+.botao::before {
+    top:-4px;
+    left: 10%;
+}
+
+.botao::after {
+    bottom: -4px;
+    right: 10%;
+}
+
+.botao:hover::before {
+    left: 80%;
+}
+
+.botao:hover::after {
+    right: 80%;
+}
