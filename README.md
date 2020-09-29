@@ -17,4 +17,12 @@ Desafio de #30diasDeCSS
 
 ![Gif of #4](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%234.gif)
 
-#5
+#5 Efeito pulsar
+
+![Gif of #5](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%235.gif)
+
+#6 Efeito lightning
+
+![Gif of #6](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%236.gif)
+
+#7
