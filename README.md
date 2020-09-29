@@ -25,7 +25,7 @@ Desafio de #30diasDeCSS
 
 ![Gif of #6](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%236.gif)
 
-#7
+#7 Preloader Animado
 
 ![Gif of #7](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%237.gif)
 
