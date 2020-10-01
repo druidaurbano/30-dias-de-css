@@ -29,4 +29,8 @@ Desafio de #30diasDeCSS
 
 ![Gif of #7](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%237.gif)
 
-#8
+#8 Coração batendo
+
+![Gif of #8](https://github.com/druidaurbano/30-dias-de-css/blob/master/gifs/%238.gif)
+
+#9
